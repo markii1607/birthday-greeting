@@ -1,4 +1,4 @@
-## Happy Birthday Website App for my love
+## Happy Birthday Website App for a very special girl in my life
 
 #### [See it Live](https://markii1607.github.io/happy-birthday/)
 
