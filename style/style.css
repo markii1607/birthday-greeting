@@ -227,6 +227,16 @@ body {
     font-weight: lighter;
 }
 
+#verse {
+    margin-bottom: 15px !important;
+}
+
+#verse1 {
+    margin-top: 15px !important;
+    font-style: italic;
+    font-size: 25px;
+}
+
 #replay {
     z-index: 3;
     cursor: pointer;
